@@ -1,6 +1,6 @@
 # stayathome
 
-A new Flutter application.
+Mobile Application to warn people to keep stay at home.
 
 ## Getting Started
 
