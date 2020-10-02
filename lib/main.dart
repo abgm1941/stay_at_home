@@ -5,7 +5,7 @@ void main() => runApp(MaterialApp(
         appBar: AppBar(
           title: Text('Stay At Home'),
           centerTitle: true,
-          backgroundColor: Colors.teal[900],
+          backgroundColor: Colors.blue,
         ),
         body: Center(
           child: Image(
