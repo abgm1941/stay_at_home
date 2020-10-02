@@ -4,7 +4,7 @@ void main() => runApp(MaterialApp(
       home: Scaffold(
         appBar: AppBar(
           title: Text('Stay At Home'),
-          centerTitle: true,
+          centerTitle: false,
           backgroundColor: Colors.teal[900],
         ),
         body: Center(
